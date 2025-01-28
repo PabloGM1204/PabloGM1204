@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Pablo GM
+🚀 Desarrollador apasionado por la tecnología y la inteligencia artificial.
 
-<!--
-**PabloGM1204/PabloGM1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de IA y Big Data.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
+- 🌟 [Nombre del Proyecto](https://github.com/tu-usuario/nombre-proyecto): Breve descripción.
+- 🔍 [Analizador de Sentimientos](https://github.com/tu-usuario/analisis-sentimientos): Análisis de sentimientos de canciones usando Transformers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecta Conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- 🌟 [Portfolio](https://tu-sitio.com)
+- 📧 [Correo](mailto:tu-correo@example.com)
+
+![GIF de Bienvenida](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
